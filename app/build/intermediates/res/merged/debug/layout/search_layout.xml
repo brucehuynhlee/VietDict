@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <EditText
+        android:id="@+id/txt_search"
+        android:inputType="text"
+        android:background="@drawable/border"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="0.2"
+        android:imeOptions="actionSearch"
+        android:hint="Enter your word"
+        android:layout_gravity="center" />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="50px"
+        android:layout_weight="0.8"
+        android:layout_gravity="center"
+        android:id="@+id/language"></Spinner>
+
+
+
+</LinearLayout>

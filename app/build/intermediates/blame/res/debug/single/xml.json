@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_notification.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_setting.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\xml\\pref_setting.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\xml\\pref_general.xml"
+    }
+]

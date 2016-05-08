@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_6ff8a2c07259fb0f64e30570ad7dcadd25846313.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha1_ead9af3e0291f32b1b1bc88514c947f3109379ec.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1_46c809df84dfb2c3281585e37f18e3cfd692b3e7.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-alpha1_1860cbdacabe98c241b6f93ae2fcb6dfe163e8aa.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\libs\iSpeech-SDK-1.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fc2772296d64a18d23f2e16a54d7fadc71a1db38">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\iSpeech-SDK-1.5_7264614b06e068f29e459166367e6060a40ad899.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_77c26ec20849c86993b2fd8b70c6adfa3c2cce8a.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_782e3b31a03e9df9885b4ee2202afd821d4bad5d.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cd688796dadc28f7f95db229cbfdaf91ebbb0d61">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0-alpha1_eab980359849d5649092eca934232cba00cf8876.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0-alpha1_78536650a0b4412e879a878cd2d84ba7f534543a.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_d5257a26b2f792aa05fd6efb026db58faefa80c8.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_2a18581bab6187cdec060e74cf5a0bf02b41ca0c.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_efa6175787824a2f36422a78ec9637702ea88eab.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_08f25771fbee7703eccb04917f9124443b711adf.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha1_9c1a0c03695a8e7bea350252907cfb6bb29e1e84.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_b6f6a9c03a4019409c5c321869d7fa60f59918ac.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2923c197b7db74aefebe9322245293efcc20742b">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.urbanairship.android-urbanairship-sdk-7.0.4_df8ed54a22ba28a239861292478b7c4af8d3b522.jar" />
+    </item>
+    <item
+        jar="F:\AndroidSDK\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1_4328e7fa6858b9fa4713e06ea47a0acacfbb95ed.jar" />
+    </item>
+    <item
+        jar="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="F:\Project2\StudioProjects\MyDictionary3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha1_d41a08f7722ae294ccbe15b5c9abdea184246a17.jar" />
+    </item>
+
+</items>

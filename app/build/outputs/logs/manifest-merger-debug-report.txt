@@ -1,0 +1,644 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:2:1-93:12
+	package
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:21:5-66
+MERGED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:20:5-78
+MERGED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:15:22-77
+permission#com.example.mydictionary.C2D_MESSAGE
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:20:5-22:47
+	android:protectionLevel
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:21:9-60
+uses-permission#com.example.mydictionary.permission.C2D_MESSAGE
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:24:5-87
+MERGED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:30:5-79
+MERGED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:12:5-87
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:24:22-84
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:25:22-68
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:26:5-82
+MERGED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:24:5-82
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:21:5-82
+MERGED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:16:5-82
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:26:22-79
+application
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:28:5-91:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:41:5-136:19
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:40:5-67:19
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+	android:allowBackup
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:31:9-41
+	android:theme
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:30:9-53
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:32:9-41
+activity#com.example.mydictionary.MainActivity
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:label
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:35:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:40:27-74
+provider#com.example.mydictionary.Unity.VietdictProvider
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:43:9-139
+	android:authorities
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:43:58-127
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:43:19-57
+meta-data#ispeech_api_key
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:45:9-47:64
+	android:value
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:47:13-61
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:46:13-43
+meta-data#debug
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:48:9-50:37
+	android:value
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:50:13-34
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:49:13-33
+activity#com.example.mydictionary.ContentView
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:52:9-55:58
+	android:label
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:54:13-64
+	android:parentActivityName
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:55:13-55
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:53:13-40
+activity#com.example.mydictionary.HistoryView
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:56:9-58:67
+	android:label
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:58:13-64
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:57:13-40
+meta-data#com.google.android.gms.version
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:63:9-65:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:65:13-66
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:64:13-58
+activity#com.example.mydictionary.FavouriteActivity
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:67:9-70:51
+	android:label
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:70:13-48
+	android:icon
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:69:13-46
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:68:13-46
+activity#com.example.mydictionary.TranslatorActivitys
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:71:9-74:72
+	android:label
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:73:13-72
+	android:theme
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:74:13-69
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:72:13-48
+activity#com.example.mydictionary.YoutubeActivity
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:75:9-78:72
+	android:label
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:77:13-59
+	android:theme
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:78:13-69
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:76:13-44
+activity#com.example.mydictionary.SettingActivity
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:79:9-81:72
+	android:label
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:81:13-60
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:80:13-44
+activity#com.example.mydictionary.SearchActivity
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:83:9-85:20
+	android:label
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:84:13-52
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:83:19-49
+activity#com.example.mydictionary.PlayerActivity
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:87:9-88:36
+	android:label
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:88:13-34
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:87:19-49
+activity#com.example.mydictionary.PlayList
+ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:89:9-90:36
+	android:label
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:90:13-34
+	android:name
+		ADDED from E:\MyDictionary3\MyDictionary3\app\src\main\AndroidManifest.xml:89:19-43
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:14:5-68
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:24:5-67
+MERGED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:18:5-68
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:15:5-66
+MERGED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:15:22-63
+permission#${applicationId}.permission.UA_DATA
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:17:5-19:47
+	android:protectionLevel
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:18:9-59
+uses-permission#${applicationId}.permission.UA_DATA
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:21:22-72
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:26:5-28:47
+	android:protectionLevel
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:28:9-44
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:27:9-63
+uses-permission#com.amazon.device.messaging.permission.RECEIVE
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:33:5-86
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:33:22-83
+permission#${applicationId}.permission.RECEIVE_ADM_MESSAGE
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:35:5-37:47
+	android:protectionLevel
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:37:9-44
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:36:9-71
+uses-permission#${applicationId}.permission.RECEIVE_ADM_MESSAGE
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:39:5-87
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:39:22-84
+amazon:enable-feature
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:44:9-46:40
+	android:required
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:45:13-55
+activity#com.urbanairship.actions.ActionActivity
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:48:9-50:75
+	android:theme
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:49:13-67
+activity#com.urbanairship.CoreActivity
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:51:9-66
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:51:19-63
+activity#com.urbanairship.google.PlayServicesErrorActivity
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:52:9-54:75
+	android:theme
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:54:13-72
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:53:13-77
+activity#com.urbanairship.messagecenter.MessageActivity
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:55:9-83
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:55:19-80
+activity#com.urbanairship.messagecenter.MessageCenterActivity
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:56:9-58:63
+	android:label
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:58:13-60
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:57:13-80
+activity#com.urbanairship.actions.LandingPageActivity
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:59:9-79:20
+	android:exported
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:61:13-37
+	android:theme
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:62:13-52
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:60:13-72
+meta-data#com.urbanairship.action.LANDING_PAGE_VIEW
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:63:13-65:71
+	android:resource
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:65:17-68
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:64:17-73
+meta-data#com.urbanairship.push.iam.EXCLUDE_FROM_AUTO_SHOW
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:66:13-68:40
+	android:value
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:68:17-37
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:67:17-80
+intent-filter#android.intent.category.DEFAULT+com.urbanairship.actions.SHOW_LANDING_PAGE_INTENT_ACTION
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:70:13-78:29
+action#com.urbanairship.actions.SHOW_LANDING_PAGE_INTENT_ACTION
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:71:17-99
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:71:25-96
+data
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:73:17-47
+	android:scheme
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:73:23-44
+category#android.intent.category.DEFAULT
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:77:17-76
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:77:27-73
+service#com.urbanairship.push.PushService
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:81:9-83:57
+	android:label
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:83:13-54
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:82:13-61
+service#com.urbanairship.analytics.EventService
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:84:9-86:45
+	android:label
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:86:13-42
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:85:13-67
+service#com.urbanairship.actions.ActionService
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:87:9-74
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:87:18-71
+service#com.urbanairship.richpush.RichPushUpdateService
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:88:9-83
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:88:18-80
+service#com.urbanairship.location.LocationService
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:89:9-91:48
+	android:label
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:90:13-69
+service#com.urbanairship.push.UAInstanceIDListenerService
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:92:9-98:19
+	android:exported
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:94:13-37
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:93:13-77
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:95:13-97:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:96:17-80
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:96:25-77
+receiver#com.urbanairship.CoreReceiver
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:100:9-108:20
+	android:exported
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:102:13-37
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:101:13-57
+intent-filter#${applicationId}+com.urbanairship.push.OPENED
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:103:13-107:29
+	android:priority
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:103:28-51
+action#com.urbanairship.push.OPENED
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:104:17-71
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:104:25-68
+category#${applicationId}
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:106:17-61
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:106:27-58
+receiver#com.urbanairship.push.GcmPushReceiver
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:109:9-118:20
+	android:permission
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:111:13-73
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:110:13-65
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:112:13-117:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:113:17-81
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:113:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:114:17-86
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:114:25-83
+receiver#com.urbanairship.push.AdmPushReceiver
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:119:9-128:20
+	android:permission
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:121:13-77
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:120:13-65
+intent-filter#${applicationId}+com.amazon.device.messaging.intent.RECEIVE+com.amazon.device.messaging.intent.REGISTRATION
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:122:13-127:29
+action#com.amazon.device.messaging.intent.REGISTRATION
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:123:17-90
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:123:25-87
+action#com.amazon.device.messaging.intent.RECEIVE
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:124:17-85
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:124:25-82
+provider#com.urbanairship.UrbanAirshipProvider
+ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:130:9-135:72
+	android:authorities
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:132:13-73
+	android:multiprocess
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:134:13-40
+	android:exported
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:133:13-36
+	android:permission
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:135:13-69
+	android:name
+		ADDED from [com.urbanairship.android:urbanairship-sdk:7.0.4] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.urbanairship.android\urbanairship-sdk\7.0.4\AndroidManifest.xml:131:13-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:28:7-31:37
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:33:7-39:18
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:41:7-44:37
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\AndroidManifest.xml:42:11-82
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:22:5-24:33
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:24:8-31
+permission#com.example.mydictionary.permission.C2D_MESSAGE
+MERGED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:8:5-10:47
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:28:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:28:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:29:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:29:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:31:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:32:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:32:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:34:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:34:22-85
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:36:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:36:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:38:22-80
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:41:9-43:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:43:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:42:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:44:9-46:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:46:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:45:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:48:9-56:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:50:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:49:13-62
+intent-filter#${manifestApplicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:51:13-55:29
+category#${manifestApplicationId}
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:54:27-66
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:57:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:57:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:59:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:59:18-63
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:60:9-62:44
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:62:13-41
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:61:13-53
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:64:9-66:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:66:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:2.3.0] E:\MyDictionary3\MyDictionary3\app\build\intermediates\exploded-aar\com.onesignal\OneSignal\2.3.0\AndroidManifest.xml:65:13-61

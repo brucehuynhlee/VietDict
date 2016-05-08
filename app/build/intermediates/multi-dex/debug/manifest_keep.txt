@@ -1,0 +1,45 @@
+-keep class com.example.mydictionary.PushNotification {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.example.mydictionary.MainActivity { <init>(); }
+-keep class com.example.mydictionary.Unity.VietdictProvider { <init>(); }
+-keep class com.example.mydictionary.ContentView { <init>(); }
+-keep class com.example.mydictionary.HistoryView { <init>(); }
+-keep class com.example.mydictionary.FavouriteActivity { <init>(); }
+-keep class com.example.mydictionary.TranslatorActivitys { <init>(); }
+-keep class com.example.mydictionary.YoutubeActivity { <init>(); }
+-keep class com.example.mydictionary.SettingActivity { <init>(); }
+-keep class com.example.mydictionary.SearchActivity { <init>(); }
+-keep class com.example.mydictionary.PlayerActivity { <init>(); }
+-keep class com.example.mydictionary.PlayList { <init>(); }
+-keep class com.urbanairship.actions.ActionActivity { <init>(); }
+-keep class com.urbanairship.CoreActivity { <init>(); }
+-keep class com.urbanairship.google.PlayServicesErrorActivity { <init>(); }
+-keep class com.urbanairship.messagecenter.MessageActivity { <init>(); }
+-keep class com.urbanairship.messagecenter.MessageCenterActivity { <init>(); }
+-keep class com.urbanairship.actions.LandingPageActivity { <init>(); }
+-keep class com.urbanairship.push.PushService { <init>(); }
+-keep class com.urbanairship.analytics.EventService { <init>(); }
+-keep class com.urbanairship.actions.ActionService { <init>(); }
+-keep class com.urbanairship.richpush.RichPushUpdateService { <init>(); }
+-keep class com.urbanairship.location.LocationService { <init>(); }
+-keep class com.urbanairship.push.UAInstanceIDListenerService { <init>(); }
+-keep class com.urbanairship.CoreReceiver { <init>(); }
+-keep class com.urbanairship.push.GcmPushReceiver { <init>(); }
+-keep class com.urbanairship.push.AdmPushReceiver { <init>(); }
+-keep class com.urbanairship.UrbanAirshipProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep class com.onesignal.GcmBroadcastReceiver { <init>(); }
+-keep class com.onesignal.NotificationOpenedReceiver { <init>(); }
+-keep class com.onesignal.GcmIntentService { <init>(); }
+-keep class com.onesignal.SyncService { <init>(); }
+-keep class com.onesignal.PermissionsActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

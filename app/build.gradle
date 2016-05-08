@@ -1,0 +1,69 @@
+apply plugin: 'com.android.application'
+
+repositories {
+    maven {
+        url "https://urbanairship.bintray.com/android"
+    }
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.example.mydictionary"
+
+        manifestPlaceholders = [manifestApplicationId: "${applicationId}",
+                                onesignal_app_id: "2210ecdf-5494-4deb-a7be-af63790e7b1c",
+                                onesignal_google_project_number: "880158128687"]
+
+        minSdkVersion 14
+        targetSdkVersion 21
+
+        multiDexEnabled true
+
+
+
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/iSpeech-SDK-1.5.jar')
+    // Urban Airship SDK
+    // Recommended for in-app messaging
+    // Recommended for location services
+    compile files('libs/microsoft-translator-java-api-0.6.1-jar-with-dependencies.jar')
+    compile files('libs/YouTubeAndroidPlayerApi.jar')
+    compile 'com.android.support:support-v4:23.3.0'
+    compile 'com.android.support:appcompat-v7:23.3.0'
+    compile 'com.android.support:design:24.0.0-alpha1'
+    compile 'com.google.android.gms:play-services-appindexing:8.4.0'
+    compile 'com.urbanairship.android:urbanairship-sdk:7.0.+'
+    compile 'com.android.support:cardview-v7:23.3.0'
+    compile 'com.google.android.gms:play-services-location:8.4.0'
+    compile files('libs/picasso-2.4.0.jar')
+
+    compile 'com.onesignal:OneSignal:2.+@aar'
+    compile 'com.google.android.gms:play-services-gcm:+'
+    compile 'com.google.android.gms:play-services-analytics:+'
+    compile "com.google.android.gms:play-services-location:+"
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.google.apis:google-api-services-youtube:v3-rev171-1.21.0'
+}
+
+
+

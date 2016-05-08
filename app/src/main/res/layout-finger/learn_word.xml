@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="400px">
+
+        <WebView
+            android:layout_width="match_parent"
+            android:background="@android:color/background_light"
+            android:id="@+id/wordlearn"
+            android:layout_height="match_parent">
+        </WebView>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pre"
+            android:layout_weight="0.5"
+            android:src="@drawable/back"
+            android:text="Previous"/>
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/next"
+            android:src="@drawable/forward"
+            android:layout_weight="0.5"
+            android:text="Next"/>
+
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

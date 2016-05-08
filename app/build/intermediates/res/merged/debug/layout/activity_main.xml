@@ -1,0 +1,80 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+ <android.support.v4.widget.DrawerLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ android:id="@+id/drawer_layout"
+ android:layout_width="match_parent"
+ android:layout_height="match_parent" >
+ 
+<FrameLayout
+ android:id="@+id/content_frame"
+ android:layout_width="match_parent"
+ android:layout_height="match_parent" >
+ 
+   <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+        <ListView 
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/listWord">
+            
+        </ListView>
+    </LinearLayout>
+    
+    
+    <!--<LinearLayout
+       
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/pronounce"
+            android:layout_weight="0.5"
+            android:src="@drawable/pronounce" />
+        <ImageButton 
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/about"
+            android:layout_weight="0.5"
+            android:src="@drawable/about"/>
+    </LinearLayout>-->
+  </LinearLayout>
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/FA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:src="@android:drawable/ic_menu_search"/>
+
+</FrameLayout>
+ 
+<ListView
+ android:id="@+id/left_drawer"
+ android:layout_width="200dp"
+ android:layout_height="match_parent"
+ android:layout_gravity="start"
+ android:choiceMode="singleChoice"
+ android:divider="@android:color/holo_blue_bright"
+ android:background="@color/common_plus_signin_btn_text_light_focused"
+ android:dividerHeight="0dp" />
+ 
+
+ </android.support.v4.widget.DrawerLayout>
+    
+     
+</LinearLayout>

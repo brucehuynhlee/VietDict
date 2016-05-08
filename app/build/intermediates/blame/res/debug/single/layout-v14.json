@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\ua_fragment_iam_card.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\layout-v14\\ua_fragment_iam_card.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\ua_fragment_mc.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\layout-v14\\ua_fragment_mc.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\ua_item_mc_content.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\layout-v14\\ua_item_mc_content.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\ua_fragment_iam.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\layout-v14\\ua_fragment_iam.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\ua_item_mc.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\layout-v14\\ua_item_mc.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\ua_fragment_message.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\layout-v14\\ua_fragment_message.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\ua_fragment_message_list.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\layout-v14\\ua_fragment_message_list.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\ua_item_mc_icon_content.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\layout-v14\\ua_item_mc_icon_content.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\ua_fragment_no_message_selected.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\layout-v14\\ua_fragment_no_message_selected.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\ua_iam_content.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\layout-v14\\ua_iam_content.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\ua_iam_button.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\layout-v14\\ua_iam_button.xml"
+    }
+]

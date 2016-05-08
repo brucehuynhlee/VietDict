@@ -1,0 +1,1064 @@
+[
+    {
+        "outputFile": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 52,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endLine": 25,
+                    "endColumn": 24,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endLine": 25,
+                        "endColumn": 24,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endLine": 33,
+                    "endColumn": 24,
+                    "endOffset": 1442
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endLine": 33,
+                        "endColumn": 24,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1447,
+                    "endLine": 66,
+                    "endColumn": 24,
+                    "endOffset": 2895
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1447,
+                        "endLine": 66,
+                        "endColumn": 24,
+                        "endOffset": 2895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2900,
+                    "endLine": 70,
+                    "endColumn": 24,
+                    "endOffset": 3116
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2900,
+                        "endLine": 70,
+                        "endColumn": 24,
+                        "endOffset": 3116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3121,
+                    "endLine": 74,
+                    "endColumn": 24,
+                    "endOffset": 3274
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3121,
+                        "endLine": 74,
+                        "endColumn": 24,
+                        "endOffset": 3274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3279,
+                    "endLine": 81,
+                    "endColumn": 24,
+                    "endOffset": 3616
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3279,
+                        "endLine": 81,
+                        "endColumn": 24,
+                        "endOffset": 3616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3621,
+                    "endColumn": 57,
+                    "endOffset": 3674
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3621,
+                        "endColumn": 57,
+                        "endOffset": 3674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3679,
+                    "endColumn": 53,
+                    "endOffset": 3728
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3679,
+                        "endColumn": 53,
+                        "endOffset": 3728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3733,
+                    "endColumn": 51,
+                    "endOffset": 3780
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 3733,
+                        "endColumn": 51,
+                        "endOffset": 3780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3785,
+                    "endColumn": 59,
+                    "endOffset": 3840
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3785,
+                        "endColumn": 59,
+                        "endOffset": 3840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3845,
+                    "endLine": 88,
+                    "endColumn": 12,
+                    "endOffset": 3988
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3993,
+                    "endLine": 93,
+                    "endColumn": 12,
+                    "endOffset": 4264
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4269,
+                    "endLine": 100,
+                    "endColumn": 12,
+                    "endOffset": 4689
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3845,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 4265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4694,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 5325
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4270,
+                        "endLine": 103,
+                        "endColumn": 12,
+                        "endOffset": 4901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 5330,
+                    "endLine": 119,
+                    "endColumn": 12,
+                    "endOffset": 5793
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4906,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 5369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 5798,
+                    "endLine": 127,
+                    "endColumn": 12,
+                    "endOffset": 6275
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 5374,
+                        "endLine": 119,
+                        "endColumn": 12,
+                        "endOffset": 5851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 6280,
+                    "endLine": 131,
+                    "endColumn": 12,
+                    "endOffset": 6486
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 5856,
+                        "endLine": 123,
+                        "endColumn": 12,
+                        "endOffset": 6062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6491,
+                    "endLine": 141,
+                    "endColumn": 12,
+                    "endOffset": 7038
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 6067,
+                        "endLine": 133,
+                        "endColumn": 12,
+                        "endOffset": 6614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 7043,
+                    "endLine": 148,
+                    "endColumn": 12,
+                    "endOffset": 7424
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 6619,
+                        "endLine": 140,
+                        "endColumn": 12,
+                        "endOffset": 7000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 7429,
+                    "endLine": 158,
+                    "endColumn": 12,
+                    "endOffset": 7939
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 7005,
+                        "endLine": 150,
+                        "endColumn": 12,
+                        "endOffset": 7515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 7944,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 8462
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 7520,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 8038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 8467,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 9121
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 8043,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 8697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 9126,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 9579
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 8702,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 9155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 9584,
+                    "endLine": 194,
+                    "endColumn": 12,
+                    "endOffset": 10136
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 9160,
+                        "endLine": 186,
+                        "endColumn": 12,
+                        "endOffset": 9712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 10141,
+                    "endColumn": 99,
+                    "endOffset": 10236
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 9717,
+                        "endColumn": 99,
+                        "endOffset": 9812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 10241,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 11060
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 9817,
+                        "endLine": 198,
+                        "endColumn": 12,
+                        "endOffset": 10636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 11065,
+                    "endColumn": 106,
+                    "endOffset": 11167
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 10641,
+                        "endColumn": 106,
+                        "endOffset": 10743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 11172,
+                    "endColumn": 103,
+                    "endOffset": 11271
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 10748,
+                        "endColumn": 103,
+                        "endOffset": 10847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 11276,
+                    "endColumn": 105,
+                    "endOffset": 11377
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 10852,
+                        "endColumn": 105,
+                        "endOffset": 10953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 11382,
+                    "endColumn": 112,
+                    "endOffset": 11490
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 10958,
+                        "endColumn": 112,
+                        "endOffset": 11066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 11495,
+                    "endColumn": 70,
+                    "endOffset": 11561
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 11566,
+                    "endColumn": 82,
+                    "endOffset": 11644
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 11649,
+                    "endLine": 218,
+                    "endColumn": 12,
+                    "endOffset": 12054
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 12059,
+                    "endLine": 224,
+                    "endColumn": 12,
+                    "endOffset": 12476
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 12481,
+                    "endColumn": 119,
+                    "endOffset": 12596
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 12601,
+                    "endColumn": 62,
+                    "endOffset": 12659
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 12664,
+                    "endLine": 229,
+                    "endColumn": 12,
+                    "endOffset": 12813
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 12818,
+                    "endColumn": 62,
+                    "endOffset": 12876
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 12881,
+                    "endColumn": 131,
+                    "endOffset": 13008
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 13013,
+                    "endLine": 234,
+                    "endColumn": 12,
+                    "endOffset": 13209
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 11071,
+                        "endLine": 205,
+                        "endColumn": 12,
+                        "endOffset": 11267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 13214,
+                    "endColumn": 139,
+                    "endOffset": 13349
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 11272,
+                        "endColumn": 139,
+                        "endOffset": 11407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 13354,
+                    "endColumn": 157,
+                    "endOffset": 13507
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 11412,
+                        "endColumn": 157,
+                        "endOffset": 11565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 13512,
+                    "endColumn": 118,
+                    "endOffset": 13626
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 11570,
+                        "endColumn": 118,
+                        "endOffset": 11684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 13631,
+                    "endColumn": 141,
+                    "endOffset": 13768
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 11689,
+                        "endColumn": 141,
+                        "endOffset": 11826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 13773,
+                    "endColumn": 129,
+                    "endOffset": 13898
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 11831,
+                        "endColumn": 129,
+                        "endOffset": 11956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 13903,
+                    "endColumn": 123,
+                    "endOffset": 14022
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 11961,
+                        "endColumn": 123,
+                        "endOffset": 12080
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 14027,
+                    "endColumn": 129,
+                    "endOffset": 14152
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 12085,
+                        "endColumn": 129,
+                        "endOffset": 12210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 14157,
+                    "endColumn": 131,
+                    "endOffset": 14284
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 12215,
+                        "endColumn": 131,
+                        "endOffset": 12342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 14289,
+                    "endColumn": 121,
+                    "endOffset": 14406
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 12347,
+                        "endColumn": 121,
+                        "endOffset": 12464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 14411,
+                    "endColumn": 121,
+                    "endOffset": 14528
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 12469,
+                        "endColumn": 121,
+                        "endOffset": 12586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 14533,
+                    "endColumn": 123,
+                    "endOffset": 14652
+                },
+                "from": {
+                    "file": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 12591,
+                        "endColumn": 123,
+                        "endOffset": 12710
+                    }
+                }
+            }
+        ]
+    }
+]

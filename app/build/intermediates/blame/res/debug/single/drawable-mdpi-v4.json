@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_overflow_material.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_overflow_material.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_drawer.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_info_black_24dp.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\drawable-mdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\launcher.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\drawable-mdpi\\launcher.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_accept.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_accept.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\drawer_shadow.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\drawable-mdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_download.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_download.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_off_mtrl.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_radio_off_mtrl.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_checkbox_unchecked_mtrl.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_checkbox_unchecked_mtrl.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\places_ic_search.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_checkbox_checked_mtrl.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_checkbox_checked_mtrl.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_urbanairship_notification.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_urbanairship_notification.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_material.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_copy_material.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_material.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_go_search_api_material.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_arrow_drop_right_black_24dp.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_arrow_drop_right_black_24dp.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_notifications_black_24dp.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_material.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_ab_back_material.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_material.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_voice_search_api_material.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_material.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_cut_material.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_material.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_paste_material.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shape.xml",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\drawable-mdpi\\shape.xml"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_sync_black_24dp.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\src\\main\\res\\drawable-mdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_image_placeholder.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_image_placeholder.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_open_browser.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_open_browser.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_unfollow.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_unfollow.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_follow.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_follow.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\places_ic_clear.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_thumbs_down.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_thumbs_down.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_on_mtrl.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_btn_radio_on_mtrl.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_happy.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_happy.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_material.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_share_material.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_copy.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_copy.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_full_open_on_phone.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_share.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_share.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_decline.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_decline.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_close_white_18dp.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_close_white_18dp.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_sad.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_sad.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_material.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_menu_selectall_material.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_close.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_close.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_remind.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_remind.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_thumbs_up.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_thumbs_up.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\powered_by_google_light.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_material.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\abc_ic_clear_material.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\powered_by_google_dark.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ua_ic_notification_button_cart.png",
+        "source": "E:\\MyDictionary3\\MyDictionary3\\app\\build\\intermediates\\exploded-aar\\com.urbanairship.android\\urbanairship-sdk\\7.0.4\\res\\drawable-mdpi-v4\\ua_ic_notification_button_cart.png"
+    }
+]
